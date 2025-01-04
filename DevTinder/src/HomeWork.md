@@ -6,3 +6,6 @@
 -   Listen to port 7777
 -   Write request hanlers for /test, /hello
 -   Install nodemon and update scripts inside package.json
+-   What are dependencies
+-   what is the use of "-g" while npm isntall
+-   Difference between caret and tilde (^ vs ~ )
